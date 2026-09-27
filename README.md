@@ -8,7 +8,7 @@ A data-driven investment research assessment of the Lagos mid-market residential
 
 ## Dashboard Preview
 
-![Images](Lagos-mid-market.png)
+![Images](Images/Lagos-mid-market.png)
 
 ---
 
@@ -169,7 +169,8 @@ MPR is a policy benchmark, not the actual borrowing rate, but it signals a high-
 
 ### 2026 Indicative Annual Asking Rents — 2-Bedroom Units
 
-![2026 Rent by Location](charts/rent-by-location.png)
+<img width="1035" height="615" alt="image" src="https://github.com/user-attachments/assets/ff7065b7-66c8-427e-950e-ff904d5aba9f" />
+
 
 | Location | Rent |
 |----------|------|
@@ -189,15 +190,16 @@ This variation demonstrates that Lagos should not be treated as a single homogen
 
 ## Rental vs Property-Price Growth
 
-![Rent vs Price Growth](charts/rent-vs-price-growth.png)
+<img width="749" height="390" alt="image" src="https://github.com/user-attachments/assets/6b3acfba-ac18-425f-96da-d3c212d44fbd" />
+
 
 Property prices outpaced rents in every location analysed, producing consistent yield compression across the segment.
 
 ---
 
 ## Yield vs Inflation
+<img width="975" height="382" alt="image" src="https://github.com/user-attachments/assets/70bd4eea-fb25-4897-97e1-a4c3e1564d90" />
 
-![Yield vs Inflation](charts/yield-vs-inflation.png)
 
 The average gross rental yield of 4.2% is 18.8 percentage points below the reported inflation rate of 23.0%. This highlights the substantial gap between nominal rental income yield and the prevailing inflation environment.
 
